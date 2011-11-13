@@ -244,14 +244,6 @@
     var UP = true;
     var WACKY = false;
     var SPIN = false;
-
-    var camDist = -20;
-    var camPos = 0;
-  
-    var camHeight = 0;
-    var camLeftRight = 0;
-   
-   
     var cRoll = 1;
     var cPitch = 0;
     var cYaw = 0;
